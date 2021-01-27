@@ -30,15 +30,15 @@ export default function Footer(props) {
     // eslint-disable-next-line react/jsx-props-no-spreading
     <FooterWrapper {...props}>
       <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+        <img src="https://exame.com/wp-content/uploads/2020/11/size_960_16_9_vader4.jpg?quality=70&strip=info&resize=680,453" alt="Lord Vader" />
       </a>
       <p>
-        Orgulhosamente criado durante
+        Where
         {' '}
-        a
+        is
         {' '}
         <a href="https://www.alura.com.br/">
-          <span>Imersão React da Alura</span>
+          <span>Padme?</span>
         </a>
       </p>
     </FooterWrapper>
